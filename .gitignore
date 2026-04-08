@@ -43,3 +43,8 @@ Thumbs.db
 .venv/
 .wrangler/
 target/
+
+# Secrets
+credentials.json
+.env
+.env.*
