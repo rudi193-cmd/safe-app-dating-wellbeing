@@ -3,6 +3,8 @@
   "name": "Dating Wellbeing Analyzer",
   "version": "1.0.0",
   "safe_version": ">=2.0.0",
+  "b17": "2NCAL",
+  "agent_type": "tool",
   "description": "Privacy-first dating profile analysis with red flag detection and pattern learning",
   "author": "Sean Campbell",
   "data_streams": [
